@@ -1,26 +1,37 @@
-a{
+#link{
 	font-size:40px;
 	font-family:sans-serif;
 	position:fixed;
 	bottom:6%;
 	left:37%;
-	text-decoration:none;
 	color:black;
 	font-weight:bold;
 }
-h1{
+a{
+text-decoration:none;
+}
+#h{
 	position:fixed;
-	top:30%;
-	left:33%;
-	font-size:80px;
+	top:35%;
+	left:35.5%;
+	font-size:75px;
 	color:white;
+	font-weight:bold;
 
 }
 body{
-	background-color:red;
-	background-image:url('http://pic.pimg.tw/nigi33kimo/1415417129-2238502658.jpg');
+	background-image:url('http://d2t44wh9rnwl5y.cloudfront.net/gsc/O0J97S/ea/80/90/ea80903d710f4b5bb25e286fb230a9c3/images/home/bg.jpg?token=48a97ece7beec3b956c339ab4c9c3471');
 	background-repeat:no-repeat;
 	background-position:center;
 
 }
+p{
+	font-size:20px;
+	font-family:sans-serif;
+	color:#2B2B2B;
+	position:fixed;
+	top:44%;
+	left:49%;
+	display:none;
 
+}

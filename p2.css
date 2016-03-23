@@ -12,13 +12,13 @@ position:absolute;
 left:10%;
 top:0px;
 }
-div.link{
-position:absolute;
+a{
+position:fixed;
 bottom:50%;
-right:40%;
-font-size:60px;
-font-family:impact;
-color:black;
+right:37%;
+font-size:52px;
+font-family:'Lucida Handwriting';
+color:#2B2B2B;
 text-decoration:none;
 }
 

@@ -21,3 +21,18 @@ div.information{
 div.p{
 	margin:0px auto;
 }
+div.link{
+	width:400px;
+  	position:absolute;
+	left:30%;
+	bottom:0px;
+	font-size:30px;
+	font-family:'Microsoft JhengHei';
+	text-align:center;
+	line-height:60px;
+
+}
+a{
+	text-decoration:none;
+	color:black;
+}
